@@ -1,4 +1,11 @@
 # Setup 
-- create virtual environment
-- pip install -r requirements.txt
-- fastapi dev server.py
+- Create virtual environment
+  
+- Install requirements
+  ```
+  pip install -r requirements.txt
+  ```
+- Run server
+  ```
+  fastapi dev server.py 
+  ```
