@@ -1,3 +1,4 @@
 keras
 transformers
 fastapi[standard]
+Pillow
